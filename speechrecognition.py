@@ -45,7 +45,7 @@ def respond(voice_data):
   #if 'find location' in voice_data:
    # location
 
-MrHacker_speak('How can I help you?')
+MrHacker_speak('Hello How can I help you? I am powered by my programmer which remains to stay anonymous')
 voice_data = record_audio()
 respond(voice_data)
 
